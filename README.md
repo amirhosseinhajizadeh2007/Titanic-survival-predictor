@@ -1,3 +1,5 @@
+
+
 🚢 Titanic Survival Predictor: End-to-End ML Pipeline & Dashboard
 This repository showcases a comprehensive, production-ready Data Science and Machine Learning workflow applied to the classic Titanic dataset. The project heavily emphasizes advanced data preprocessing, robust feature engineering, and ensemble modeling to deliver high-accuracy predictions via an interactive web dashboard.
 
@@ -49,6 +51,14 @@ pip install -r requirements.txt
 
 Launch the Dashboard:
 streamlit run app.py
+
+
+
+<img width="1707" height="893" alt="Screenshot 2026-05-23 at 16 03 37" src="https://github.com/user-attachments/assets/a8ab23a5-b295-45f0-988c-d6cf11a473e0" />
+<img width="1707" height="898" alt="Screenshot 2026-05-23 at 16 03 56" src="https://github.com/user-attachments/assets/dd7d7a6a-25da-4949-a33a-29be1a9cadb6" />
+<img width="1709" height="895" alt="Screenshot 2026-05-23 at 16 04 10" src="https://github.com/user-attachments/assets/6d97a9ec-41e9-4cf3-9723-0d636fa23a60" />
+
+
 
 📈 Project Workflow & Architecture
 EDA & Visualizations: Analyzing passenger distributions, correlations, and target impacts.
