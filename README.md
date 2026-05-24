@@ -1,4 +1,5 @@
-
+### 📊 Dataset Source
+The dataset used in this project is sourced from the official [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition.
 
 🚢 Titanic Survival Predictor: End-to-End ML Pipeline & Dashboard
 This repository showcases a comprehensive, production-ready Data Science and Machine Learning workflow applied to the classic Titanic dataset. The project heavily emphasizes advanced data preprocessing, robust feature engineering, and ensemble modeling to deliver high-accuracy predictions via an interactive web dashboard.
